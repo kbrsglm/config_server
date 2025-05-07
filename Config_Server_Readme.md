@@ -1,6 +1,6 @@
 # Config Server
 
-[] ()
+[GitHub] (https://github.com/kbrsglm/config_server)
 -----
 ## Config server 
 - Mikroservislerim konfigurasyonlarını merkezi bir yerden yönetmek için kullandığımız yapıdır
